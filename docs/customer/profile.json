@@ -1,0 +1,109 @@
+{
+  "companyName": "温州市国彩真空科技有限公司",
+  "shortName": "国彩真空",
+  "summary": "温州瑞安地区专业的PVD真空镀膜加工企业，采用磁控溅射、多弧离子镀等绿色环保工艺，为五金配件、3C电子、汽摩配、厨卫、眼镜等行业提供表面镀膜加工服务，具备模具治具开发、UV真空电镀、磁控溅射镀膜、超硬纳米涂层等综合能力，已进入宜家、苏泊尔、吉利汽车、春风动力等知名品牌供应链。",
+  "industry": "制造业",
+  "subIndustry": "金属表面处理及热处理加工",
+  "scale": "中小型",
+  "mainBusiness": "真空镀膜（PVD）来料加工及镀膜设备相关服务",
+  "products": [
+    { "name": "PVD离子镀膜", "description": "多弧离子镀工艺，膜层结合力强，适用于各类五金工件表面装饰与功能涂层" },
+    { "name": "PVD磁控溅射镀膜", "description": "磁控离子溅射工艺，膜厚精度可控制在0.1微米，良品率高于行业均值15%以上" },
+    { "name": "UV真空电镀", "description": "表面UV真空电镀加工服务" },
+    { "name": "超硬纳米防护涂层", "description": "高端抛光拉丝及超硬质纳米防护涂层，适用于耐磨耐腐蚀场景" },
+    { "name": "模具治具设计开发", "description": "配套镀膜的产品模具治具设计开发服务" }
+  ],
+  "targetCustomers": ["宜家(IKEA)", "苏泊尔", "沃尔玛", "吉利汽车", "春风动力", "3C电子品牌", "汽摩配企业", "厨卫五金企业"],
+  "businessModel": "来料加工为主（表面处理代工），配套设备销售与维保服务",
+  "rating": "BBB",
+  "tags": ["PVD真空镀膜", "金属表面处理", "来料加工", "汽摩配", "3C电子", "绿色环保工艺", "ISO质量标准"],
+  "website": "https://www.gczkkj.com",
+  "slogan": null,
+  "isListed": false,
+  "stockCode": null,
+  "revenueScale": null,
+  "registration": {
+    "registeredName": "温州市国彩真空科技有限公司",
+    "registeredCapital": "200万人民币",
+    "paidCapital": null,
+    "establishedDate": "2017-11-20",
+    "legalRepresentative": "李进汉",
+    "businessStatus": "存续",
+    "shareholders": ["李进汉", "卢献锐"],
+    "branchCount": 0,
+    "interpretation": "注册资本200万在温州中小制造企业中属正常规模；自然人投资控股结构，两位股东李进汉与卢献锐共同持股；2021年更名后从'五金制品'升级为'真空科技'，业务重心向真空镀膜转移；社保人数18人，实际用工规模可能略大；行业代码从'科技推广'变更为'其他未列明制造业'，反映真实业务属性。",
+    "organizationType": "有限责任公司(自然人投资或控股)",
+    "keyFindings": [
+      "2021年更名转型：从'瑞安市国彩五金制品'升级为'国彩真空科技'，标志从传统五金向专业真空镀膜的战略转移",
+      "注册资本200万，两位自然人股东，股权结构简单，决策链短，法人李进汉直接掌舵",
+      "经营地址塘下镇——温州汽摩配产业核心集聚区，与主要客户群体（汽摩配、五金）地理高度吻合"
+    ]
+  },
+  "organization": {
+    "type": "中小企业，扁平化管理",
+    "decisionChain": "法人/执行者李进汉直接决策，股权结构简单，无复杂管理层级，采购与技术决策效率高",
+    "keyPersons": [
+      { "name": "李进汉", "title": "法定代表人/执行董事" },
+      { "name": "卢献锐", "title": "股东" }
+    ],
+    "salesStrategy": "依托大型品牌客户背书（如宜家、吉利）建立行业口碑，主打品质、交期、售后48小时响应等差异化服务；积极参加行业排名与媒体报道提升曝光；浙南本土化快速服务为核心竞争力。"
+  },
+  "timing": {
+    "phase": "业务稳定期，面临规模化升级节点",
+    "analysisBasis": [
+      "2017年成立，2021年完成品牌更名转型，业务方向已明确",
+      "已进入宜家、苏泊尔、吉利等头部品牌供应链，具备品质背书",
+      "有专利积累和ISO认证，工艺成熟",
+      "行业文章将其列为区域推荐制造商，说明已进入行业视野"
+    ],
+    "entryStrategy": "作为表面处理代工服务商，国彩真空的上游是原材料/辅料供应商，下游是品牌客户；针对其特点可提供：设备管理软件（生产进度透明化）、MES系统、供应链协同平台；重点切入质量管理（SPC追溯）和设备预测性维护方向，与其'48小时服务响应'能力结合提升客户粘性。",
+    "urgency": "中等——现有业务稳定，但面对头部品牌的价格与品质压力，有通过数字化提升效率、降低成本的内在需求"
+  },
+  "hiring": {
+    "keySignals": []
+  },
+  "competition": {
+    "industryRank": null,
+    "marketShare": null,
+    "mainCompetitors": ["温州华弘真空科技有限公司", "温州恩博美真空镀膜有限公司", "广东汇成真空科技股份有限公司"],
+    "knownClients": ["宜家(IKEA)", "沃尔玛(Wal-Mart)", "苏泊尔", "吉利汽车", "春风动力"]
+  },
+  "riskAndPolicy": {
+    "legal": {
+      "lawsuitCount": null,
+      "executedPerson": false,
+      "dishonestPerson": false,
+      "businessAnomalies": [],
+      "equityFreeze": false
+    },
+    "policy": {
+      "isSpecializedSME": false,
+      "smeLevel": "",
+      "isHighTech": false,
+      "digitalTransformation": false,
+      "esgGreen": false
+    }
+  },
+  "painPoints": [
+    { "area": "质量管理", "description": "多客户、多工艺、多批次镀膜加工，良品率数据虽优于行业15%，但缺乏实时SPC系统支撑，难以对膜厚、结合力等关键参数做全流程追溯，客诉响应依赖人工记录", "severity": "高" },
+    { "area": "生产管理", "description": "多订单并行、颜色工艺繁多（玫瑰金、幻彩色等），排产依赖经验，插单、换线成本高，生产进度对客户不透明，难以支撑加急件12小时交付承诺的系统化", "severity": "中" },
+    { "area": "设备管理", "description": "真空镀膜设备为重资产，设备稼动率、保养计划、故障预警缺乏数字化管控；'48小时上门服务'承诺需要更精细的设备状态管理", "severity": "中" },
+    { "area": "订单管理", "description": "客户分散（宜家、吉利、苏泊尔等不同行业），订单规格、交期要求各异，目前靠电话/微信跟单，客户对交期状态缺乏自助查询窗口", "severity": "中低" }
+  ],
+  "opportunities": [
+    { "area": "质量管理数字化", "description": "为镀膜加工环节部署SPC系统，对膜厚精度(0.1微米)、结合力等核心参数实时监控，与客户共享质量数据报告，提升品牌可信度，助力维系宜家、苏泊尔等高标准客户", "likelihood": "高" },
+    { "area": "设备预测性维护", "description": "真空镀膜设备价值高，维护响应已承诺48小时；引入IoT设备监控与预测性维护，可减少突发故障造成的订单延误，保障12小时加急交付承诺", "likelihood": "中" },
+    { "area": "客户协同门户", "description": "为宜家、苏泊尔等大客户提供订单进度自助查询接口，减少销售跟单人工成本，同时提升客户体验和粘性", "likelihood": "中" },
+    { "area": "产能与排产优化", "description": "基于APS智能排程优化多颜色、多规格订单的换线顺序，提升设备稼动率，降低换线时间成本，增强价格竞争力", "likelihood": "中" }
+  ],
+  "analysisPath": "B+",
+  "confidence": 0.82,
+  "metadata": {
+    "createdAt": "2026-04-13",
+    "updatedAt": "2026-04-13",
+    "createdBy": "AI",
+    "version": "1.0",
+    "sources": [],
+    "confidence": 0.82
+  }
+}
